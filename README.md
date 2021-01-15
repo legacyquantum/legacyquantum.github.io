@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## ☁️ A simple one page marketing site starter for SaaS companies and indie hackers.
 
 [Live Demo: https://gatsby-starter-saas-marketing.netlify.com/ ](https://gatsby-starter-saas-marketing.netlify.com/)
@@ -100,6 +101,9 @@ In `header.js` replacing the existing `<HeaderForm>...</HeaderForm>` components 
   <HeaderButton>Early access</HeaderButton>
 </HeaderForm>
 ```
+=======
+# legacyquantum.github.io
+>>>>>>> parent of 5656354... Set theme jekyll-theme-dinky
 =======
 # legacyquantum.github.io
 >>>>>>> parent of 5656354... Set theme jekyll-theme-dinky
